@@ -94,8 +94,6 @@ poor conditions, and dust got on it.
 
 ## Part 3. Filtering the reads
 
-Вика, вставь, пожалуйста, скрины фасткуси после триммоматика
-
 Let's remove reads with poor quality and trim them from the end and from the beginning to improve the overall quality of the reads with Trimmomatic.
 
 ``` bash
